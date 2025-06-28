@@ -1,0 +1,21 @@
+{
+  "name": "tp2_appshibridas-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "*",
+    "bootstrap": "*",
+    "react": "*",
+    "react-dom": "*",
+    "react-router-dom": "*",
+    "uuid": "*"
+  },
+  "devDependencies": {
+    "vite": "*",
+    "@vitejs/plugin-react": "*"
+  }
+}
